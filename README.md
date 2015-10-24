@@ -31,7 +31,7 @@ dependencies {
 * register module (in MainActivity.java)
 
 ```java
-import com.syarul.mapintent.RNMapIntentPackage;;  // <--- import
+import com.syarul.mapintent.RNMapIntentPackage;  // <--- import
 
 public class MainActivity extends Activity implements DefaultHardwareBackBtnHandler {
   ......
