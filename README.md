@@ -62,6 +62,13 @@ public class MainActivity extends Activity implements DefaultHardwareBackBtnHand
 ```
 
 ## Example
+
+MapIntent.open(latitude, longitude, label)
+
+* **latitude:** *(string)* geolocation latitude value
+* **longitude:** *(string)* geolocation longitude value
+* **label:** *(string)* label on the geolocation point.
+
 ```javascript
 var MapIntent = require('react-native-mapintent');
 
