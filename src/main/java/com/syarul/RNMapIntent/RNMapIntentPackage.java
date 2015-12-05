@@ -1,4 +1,4 @@
-package com.syarul.rnmapintent;
+package com.syarul.RNMapIntent;
 
 import java.util.ArrayList;
 import java.util.Collections;

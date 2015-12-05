@@ -1,4 +1,4 @@
-package com.syarul.rnmapintent;
+package com.syarul.RNMapIntent;
 
 import android.content.Intent;
 import android.net.Uri;
